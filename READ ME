@@ -1,0 +1,13 @@
+I will briefly explain the steps and mindsets of the assignment here:
+
+step 1 : read the data file
+step 2 : read and combine the test data
+step 3 : read and combine the training daata
+step 4 : merge the 2 data
+step 5 : subset
+step 6 :  label the names
+step 7 : find the means
+step 8 : find the average values
+step 9 : add columns
+step 10 : finalize it
+step 11 : finalize the names
